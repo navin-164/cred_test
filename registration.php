@@ -36,7 +36,7 @@
 
 		  <div class="mb-4 float-end">Already have an account? <a href="http://localhost/cred/">Login Here</a></div>
 	
-		  <button type="submit" class="btn btn-primary mt-4">Submit</button>
+		  <button type="submit" class="btn btn-primary mt-4">Submit!!</button>
 		</form>
     </div>
 
